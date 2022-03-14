@@ -1,2 +1,10 @@
 # Graduation_Project_1
-건국대학교 2022-1 졸업프로젝트 1 DRL-Navigation
+Graduation Projekt 1 2022-1 Konkuk University DRL-Navigation
+
+Projekt Name : Self-Driving Navigation through DRL
+
+Projekt Description
+
+Language : Python, MATLAB, XML, ROS2
+
+
